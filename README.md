@@ -1,4 +1,6 @@
 <div>
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/00b36d4a-f3f3-4c86-ad19-a47f4fe5f9ad.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/deep-learning-keras-tensorflow?orgId=561911742905)  
     <h1 style="text-align: center;">Deep Learning with Keras and Tensorflow</h1>
     <img style="text-align: left" src="https://blog.keras.io/img/keras-tensorflow-logo.jpg" width="15%" />
 <div>
